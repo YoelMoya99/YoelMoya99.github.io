@@ -4,5 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hello again, this would be my contact info:
+- My LinkedIn: [yoelmoya](https://www.linkedin.com/in/yoelmoya/)
+- My email: yoel.moya.carmona@gmail.com or yoel.moya@ucr.ac.cr
+- My github: [YoelMoya99](https://github.com/YoelMoya99)
+
+Hope you found this portfolio not useless :)
