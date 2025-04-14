@@ -2,7 +2,7 @@
 title: Overview of This Portfolio!
 description: >-
   Hi, I’m Yoel. I study Electrical Engineering and Math at UCR. This is a log of projects—personal or from work—that I can share publicly. The goal is to document what I can do, how I think, and what I’ve built. If you find something useful, feel free to use it (MIT License applies).
-authors: Yoel
+authors: Yoel Moya Carmona
 date: 2025-04-14 01:00:00 -0600
 categories: [Info about the site]
 tags: [overview of the site :)]
